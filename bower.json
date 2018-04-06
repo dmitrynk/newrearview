@@ -1,0 +1,43 @@
+{
+  "name": "dts-admin",
+  "homepage": "",
+  "authors": [
+    "Aigars Silkalns",
+    "Christian Esperar"
+  ],
+  "description": "Driven Technical Solutions Admin",
+  "keywords": [
+    "css",
+    "js",
+    "html",
+    "template",
+    "admin",
+    "bootstrap",
+    "theme",
+    "backend",
+    "responsive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "documentation"
+  ],
+  "devDependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.1",
+    "Chart.js": "^2.0.2",
+    "gauge.js": "gauge.js#^1.2.1",
+    "bootstrap-progressbar": "^0.9.0",
+    "Flot": "flot#^0.8.3",
+    "bootstrap-daterangepicker": "git@github.com:christianesperar/bootstrap-daterangepicker.git#master",
+    "jquery.easy-pie-chart": "^2.1.6",
+    "DateJS": "^1.0.0-rc3",
+    "flot.curvedlines": "^1.1.1",
+    "flot.orderbars": "*",
+    "flot-spline": "^0.8.2"
+  },
+  "resolutions": {
+    "jquery": "^2.2.3"
+  }
+}
